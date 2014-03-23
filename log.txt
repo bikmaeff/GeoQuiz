@@ -1,1 +1,0 @@
-03-23 02:51:31.938: E/AndroidRuntime(2064): Caused by: java.lang.NullPointerException
